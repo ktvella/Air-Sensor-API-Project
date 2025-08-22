@@ -10,6 +10,6 @@ Sensor numbers were found using the map here: https://map.purpleair.com/air-qual
 
 Note that you must register an account with PurpleAir in order to get a free trial API. 
 
-
+# Example Output
 
 <img width="848" height="377" alt="Example Output" src="https://github.com/user-attachments/assets/17dd4c40-04ce-47e5-b3be-a35e3a1f1b74" />
