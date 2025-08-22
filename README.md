@@ -1,5 +1,5 @@
 # Air-Sensor-API-Project
-A weather app using API call to PurpleAir Sensors. Reports current temperature, humidity, and air quality at a rane of locations
+A weather app using API call to PurpleAir Sensors. Reports current temperature, humidity, and air quality at a range of locations
 
 # API Information
 This project was completed by connecting to PurpleAir's API. 
