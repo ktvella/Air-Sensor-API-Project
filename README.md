@@ -12,3 +12,4 @@ Note that you must register an account with PurpleAir in order to get a free tri
 
 
 
+<img width="848" height="377" alt="Example Output" src="https://github.com/user-attachments/assets/17dd4c40-04ce-47e5-b3be-a35e3a1f1b74" />
